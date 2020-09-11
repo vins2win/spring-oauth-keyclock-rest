@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: a-7845
+Build-Jdk: 11.0.8
+Implementation-Title: oauth-ui-authorization-code-angular
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.baeldung
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-security-oauth/oauth-ui-authorization-code-angul
+ ar
+Created-By: Maven Integration for Eclipse
+
